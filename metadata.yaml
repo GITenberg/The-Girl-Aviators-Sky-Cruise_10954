@@ -1,11 +1,16 @@
 _repo: The-Girl-Aviators-Sky-Cruise_10954
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnham, Margaret
     gutenberg_agent_id: '2051'
     url: http://www.gutenberg.org/2009/agents/2051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10954#The-Girl-Aviators-Sky-Cruise
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
